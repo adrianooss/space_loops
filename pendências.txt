@@ -1,0 +1,2 @@
+- Imagem "not found" não é identificada
+- Messagem de login efetuado com sucesso não recebe estilização
